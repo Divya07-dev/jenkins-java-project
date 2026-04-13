@@ -14,11 +14,11 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> NETFLIXXXXXXXXXXX</h2>
+      <h2> NETFLI</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>EmaillLLLLLL</label>
+          <label>EmaiL HAKRI</label>
         </div>
         <div class="form-control">
           <input type="password" required />
